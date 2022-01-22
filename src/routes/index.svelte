@@ -8,7 +8,7 @@
         
         background-position: center;
         background-size: contain;
-        background-image: url(sitestart.jpg);
+        background-image: url(/sitestart.jpg);
         background-repeat: no-repeat;
         height: 100vh;
     }
